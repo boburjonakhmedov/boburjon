@@ -1,0 +1,39 @@
+body
+{
+    background-image: url(Map.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+header
+{
+    color: blue;
+    height: auto;
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+    margin: auto;
+    font-family: monospace;
+    font-size: 20pt;
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+    font-family: monospace;
+    font-size: 11pt;
+}
+
+main
+{
+    padding: inherit;
+    margin: auto;
+    border: 0.1px solid;
+}
+
+
